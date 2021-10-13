@@ -10,6 +10,10 @@ channels
 
 * PolyMatter https://www.youtube.com/c/PolyMatter/videos
 * 3blue1brown https://www.youtube.com/3blue1brown
-* vsauce1 https://www.youtube.com/c/vsauce1
+* vsauce1 https://www.youtube.com/c/vsauce
+
+
 * TheRoyalInstitution https://www.youtube.com/user/TheRoyalInstitution
 * Joe Scott https://www.youtube.com/c/joescott
+
+* advchina https://youtube.com/c/ADVChina
