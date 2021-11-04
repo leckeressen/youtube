@@ -17,3 +17,5 @@ channels
 * Joe Scott https://www.youtube.com/c/joescott
 
 * advchina https://youtube.com/c/ADVChina
+
+* Economist
